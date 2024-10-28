@@ -1,1 +1,1 @@
-# mindcircuit13 - SAMPLE APP
+# sample-java-project - SAMPLE APP
