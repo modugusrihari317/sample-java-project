@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: modugusrihari
+        image: modugusrihari/batch12
         ports:
         - containerPort: 8080
 
